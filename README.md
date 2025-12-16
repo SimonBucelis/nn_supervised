@@ -54,11 +54,11 @@ Binary classification to predict wine quality (good: quality ≥ 7, not good: qu
 - `wine_confusion_matrix.png` - Confusion matrix visualization
 - `wine_metrics.png` - Classification metrics comparison
 
-![Wine Training Curves](outputs/wine_mokymo_kreives.png)
+![Wine Training Curves](outputs/wine_training_curves.png)
 
-![Wine Confusion Matrix](outputs/wine_konfusijos_matrica.png)
+![Wine Confusion Matrix](outputs/wiwine_confusion_matrix.png)
 
-![Wine Metrics](outputs/wine_metrikos.png)
+![Wine Metrics](outputs/wine_metrics.png)
 
 ## Requirements
 
