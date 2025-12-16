@@ -28,7 +28,7 @@ Binary classification to predict whether a breast tumor is benign (B) or maligna
   - Confusion matrix heatmap
   - Classification metrics bar chart
 
-![Breast Cancer Analysis](breast_cancer_analysis.png)
+![Breast Cancer Analysis](outputs/breast_cancer_analysis.png)
 
 ### 2. Wine Quality Classification
 Binary classification to predict wine quality (good: quality ≥ 7, not good: quality < 7).
@@ -54,11 +54,11 @@ Binary classification to predict wine quality (good: quality ≥ 7, not good: qu
 - `wine_confusion_matrix.png` - Confusion matrix visualization
 - `wine_metrics.png` - Classification metrics comparison
 
-![Wine Training Curves](wine_mokymo_kreives.png)
+![Wine Training Curves](outputs/wine_mokymo_kreives.png)
 
-![Wine Confusion Matrix](wine_konfusijos_matrica.png)
+![Wine Confusion Matrix](outputs/wine_konfusijos_matrica.png)
 
-![Wine Metrics](wine_metrikos.png)
+![Wine Metrics](outputs/wine_metrikos.png)
 
 ## Requirements
 
